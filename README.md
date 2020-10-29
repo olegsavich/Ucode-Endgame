@@ -26,9 +26,9 @@
     <h2 align="center">vsvietkov</h2>
     <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/iantypin.png" height="100px"></a></p>
       <h2 align="center">iantypin</h2>
-    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/abashlykov.png" height="100px"></a></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/abashlykov.png" height="100px"></a></p>
     <h2 align="center">abashlykov</h2>
-    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/azhuk.png" height="100px"></a></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/azhuk.png" height="100px"></a></p>
     <h2 align="center">azhuk</h2>
     <p align="center"><a href="https://github.com/TrueDanuch" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/dyurchenko.png" height="100px"></a></p>
     <h2 align="center">dyurchenko</h2>
