@@ -26,10 +26,12 @@
     <h2 align="center">vsvietkov</h2>
     <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/iantypin.png" height="100px"></a></p>
       <h2 align="center">iantypin</h2>
-    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/abashlykov.png" height="100px"></a>
+    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/abashlykov.png" height="100px"></a></p>
     <h2 align="center">abashlykov</h2>
-  </p>
-    <p align="center"><a href="https://github.com/Overwolf-live" target="_blank"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/ze.png?raw=true" height="100px"></a></p>
+    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/azhuk.png" height="100px"></a></p>
+    <h2 align="center">azhuk</h2>
+    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/dyurchenko.png" height="100px"></a></p>
+    <h2 align="center">dyurchenko</h2>
     <h2 align="center">Here some screenshots from the game</h2>
     <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen1.png?raw=true"></p>
     <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen2.png?raw=true"></p>
