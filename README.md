@@ -17,7 +17,6 @@
   <p>It was made after the C Marathon at the UCODE Academy. We had only a week to make the game we can. And we've made this - Space Invaders!<br>
       We used graphic library named <a href="https://www.libsdl.org/index.php" target="_blank">SDL2.</a>
       Simple DirectMedia Layer is a cross-platform development library that provides low level access to audio, keyboard, mouse, joystick, and graphics       hardware via OpenGL and Direct3D.
-      You can see presentation files (pptx, pdf) to learn more about our game or clone this repo and play by yourself!
   </p>
     <h2 align="center">Our team</h2>
     <p align="center">This people turned the idea into reality. Click to visit Github page! P.S: Not all of us have their own Github</p>
@@ -34,13 +33,13 @@
     <p align="center"><a href="https://github.com/TrueDanuch" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/dyurchenko.png" height="100px"></a></p>
     <h2 align="center">dyurchenko</h2>
     <h2 align="center">Here some screenshots from the game</h2>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Start.png"></p>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Highscore.png"></p>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Gameplay1.png"></p>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Gameplay2.png"></p>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/GameOver.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/Start.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/Highscore.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/Gameplay1.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/Gameplay2.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/Pause.png"></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Endgame/GameOver.png"></p>
 </body>
 <footer>
   <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
-  <h4 align="center">Current version is 1.0 (09.10.2020)</h4>
 </footer>
