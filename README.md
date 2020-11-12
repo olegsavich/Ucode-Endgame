@@ -21,17 +21,17 @@
   </p>
     <h2 align="center">Our team</h2>
     <p align="center">This people turned the idea into reality. Click to visit Github page! P.S: Not all of us have their own Github</p>
-    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/osavich.jpg" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/osavich.jpg" height="100px"></a></p>
     <h2 align="center">osavich</h2>
-    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Vitalii.jpg" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/Vitalii.jpg" height="100px"></a></p>
     <h2 align="center">vsvietkov</h2>
-    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/iantypin.png" height="100px"></a></p>
+    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/iantypin.png" height="100px"></a></p>
       <h2 align="center">iantypin</h2>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/abashlykov.png" height="100px"></a></p>
+    <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/abashlykov.png" height="100px"></a></p>
     <h2 align="center">abashlykov</h2>
-    <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/azhuk.png" height="100px"></a></p>
+    <p align="center"><img src= "https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/azhuk.png" height="100px"></a></p>
     <h2 align="center">azhuk</h2>
-    <p align="center"><a href="https://github.com/TrueDanuch" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/dyurchenko.png" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/TrueDanuch" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/dyurchenko.png" height="100px"></a></p>
     <h2 align="center">dyurchenko</h2>
     <h2 align="center">Here some screenshots from the game</h2>
     <p align="center"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Start.png"></p>
