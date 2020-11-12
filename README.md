@@ -1,13 +1,13 @@
 <head>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/ucode.png" height="100px">
+            <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/ucode.png" height="100px">
         </a>
         <a href="https://unitfactory.net/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/unit.png" height="100px">
+            <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/unit.png" height="100px">
         </a>
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/lms.png" height="100px">
+            <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/lms.png" height="100px">
         </a>
         <h2 align="center">This is our Endgame called "Space Invaders"!</h2>
     </p>
