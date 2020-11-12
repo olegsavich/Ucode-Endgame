@@ -15,7 +15,7 @@
 <body>
   <p>It was made after the C Marathon at the UCODE Academy. We had only a week to make the game we can. And we've made this - Space Invaders!<br>
       We used graphic library named <a href="https://www.libsdl.org/index.php" target="_blank">SDL2.
-      Simple DirectMedia Layer is a cross-platform development library that provides low level access to audio, keyboard, mouse, joystick, and graphics       hardware via OpenGL and Direct3D.<br><br>
+      Simple DirectMedia Layer is a cross-platform development library that provides low level access to audio, keyboard, mouse, joystick, and graphics       hardware via OpenGL and Direct3D.
       You can see presentation files (pptx, pdf) to learn more about our game or clone this repo and play by yourself!
   </p>
     <h2 align="center">Our team</h2>
