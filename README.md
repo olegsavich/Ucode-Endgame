@@ -1,17 +1,18 @@
 <head>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/ucode.png?raw=true" height="100px">
+            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/ucode.png" height="100px">
         </a>
         <a href="https://unitfactory.net/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/unit.png?raw=true" height="100px">
+            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/unit.png" height="100px">
         </a>
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
-            <img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/lms.png?raw=true" height="100px">
+            <img src="https://github.com/PAXANDDOS/PAXANDDOS/blob/main/Images/Header/lms.png" height="100px">
         </a>
         <h2 align="center">This is our Endgame called "Space Invaders"!</h2>
     </p>
 </head>
+
 <body>
   <p>It was made after the C Marathon at the UCODE Academy. We had only a week to make the game we can. And we've made this - Space Invaders!<br>
       We used graphic library named <a href="https://www.libsdl.org/index.php" target="_blank">SDL2.</a>
