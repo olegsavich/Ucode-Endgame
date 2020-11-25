@@ -24,7 +24,7 @@
     <h2 align="center">osavich</h2>
     <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/Vitalii.jpg" height="100px"></a></p>
     <h2 align="center">vsvietkov</h2>
-    <p align="center"><a href="" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/iantypin.png" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/SansNumbers" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/iantypin.png" height="100px"></a></p>
       <h2 align="center">iantypin</h2>
     <p align="center"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/abashlykov.png" height="100px"></a></p>
     <h2 align="center">abashlykov</h2>
